@@ -1,5 +1,3 @@
-# Please indicate your favourite places to eat near NAIST.
+Please indicate your favourite calorie mate.
 
-# List of place
-- mamemame saisai
-- Gusto
+
