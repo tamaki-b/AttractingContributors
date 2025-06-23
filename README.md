@@ -1,4 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite movies.
 
 # List of place
 - mamemame saisai
