@@ -9,6 +9,7 @@
 - Monster Hunter
 - Fantasy Life
 - The Legend of Zelda: Skyward Sword
+- Puyo Puyo
 - Word of Warcraft
 - Pokémon Platinum
 - New Super Mario Bros. DS
