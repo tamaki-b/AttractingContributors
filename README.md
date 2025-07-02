@@ -11,3 +11,4 @@
 - Nara, Japan
 - Okinawa, Japan
 - Fukuoka, Japan
+- Tumen, China
