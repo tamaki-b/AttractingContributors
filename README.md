@@ -13,3 +13,4 @@
 - Fukuoka, Japan
 - Tumen, China
 - Kyoto, Japan
+- Nagano, Japan
