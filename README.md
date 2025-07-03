@@ -12,3 +12,4 @@
 - Okinawa, Japan
 - Fukuoka, Japan
 - Tumen, China
+- Kyoto, Japan
