@@ -3,3 +3,4 @@
 - Isekai
 - Liverpool
 - Hokkaido
+- Okinawa
