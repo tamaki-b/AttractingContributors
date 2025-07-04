@@ -32,5 +32,6 @@ Please add it below! I appreciate your cooperation./以下に追加してくだ�
 - Solo Leveling
 - Mission:Impossible
 - 3 body problems
+- TENET
 
 
