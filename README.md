@@ -2,4 +2,5 @@
 - Ikoma
 - Liverpool
 - Hokkaido
+- Okinawa
 - America
